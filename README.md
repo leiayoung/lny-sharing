@@ -1,2 +1,2 @@
-lny-sharing
+lny-kaggle-projects
 ===========
